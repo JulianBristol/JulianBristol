@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi👋🏿! I'm Julian Bristol, a frontend developer from NYC🍎</h1>
+<h1 align="left">Hi👋🏿! I'm Julian Bristol, a frontend developer from NYC🍎</h1>
 
 ###
 
