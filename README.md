@@ -63,11 +63,11 @@
 
 ###
 
-<h2 align="left">💻 My Experiences</h2>
+<h2 align="left">🌱 My Growth</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/vTwMhdWTuWLVPEbIA3/giphy.gif?cid=ecf05e47gf2c0wtm7prjq27ormbmpiphcps0ktwkkj1roqua&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -83,16 +83,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JulianBristol/JulianBristol/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" src="https://profile-counter.glitch.me/JulianBristol/count.svg?"  />
-
-###
-
-<h2 align="left">Hello World!!</h2>
 
 ###
