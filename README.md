@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4E16AQF-3koZEn4SNQ/profile-displaybackgroundimage-shrink_350_1400/0/1698017122770?e=1704931200&v=beta&t=SbIfjYPiNEqZIW6PHVxDwJzXDGOK48n7ybKovlOKGwc"  />
-</div>
+[![Header](https://github.com/JulianBristol/JulianBristol/blob/main/banner.jpg?raw=true "Header")](https://github.com/JulianBristol)
+
 
 ###
 
